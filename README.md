@@ -1,5 +1,5 @@
-# Python-Chat-Room
-Chat Room using Python module socket and threading.
+# Python-Chat-App
+Chat App using Python module socket and threading.
 
 ### How to run
 
